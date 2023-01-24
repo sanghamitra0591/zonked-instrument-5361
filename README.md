@@ -4,7 +4,7 @@
 
 # Project Name -  Google Digital Garage Clone (zonked-instrument-5361)
 
-<img src='https://static1.hkrtcdn.com/hknext/static/media/common/hk.png'/>
+<img src='https://cdn.worldvectorlogo.com/logos/google-digital-garage.svg'/>
 
 <a target="_blank" href="https://health-mart-frontend.vercel.app/">Deployed Link</a>
 
