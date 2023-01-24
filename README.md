@@ -6,7 +6,7 @@
 
 <img src='https://cdn.worldvectorlogo.com/logos/google-digital-garage.svg'/>
 
-<a target="_blank" href="https://health-mart-frontend.vercel.app/">Deployed Link</a>
+<a target="_blank" href="https://google-digital-garage-clone.vercel.app/">Deployed Link</a>
 
 <br />
 
